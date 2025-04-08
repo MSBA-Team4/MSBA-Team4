@@ -1,7 +1,10 @@
 ## MSBA Team 4
-Andrew Linton: https://github.com/amlinton7 
-Malachi Ndur: https://github.com/MalachiNdur
-Grace Schaaff: https://github.com/gschaaff
+Andrew Linton: https://github.com/amlinton7  
+
+Malachi Ndur: https://github.com/MalachiNdur  
+
+Grace Schaaff: https://github.com/gschaaff  
+
 
 ## Visualizations
 
