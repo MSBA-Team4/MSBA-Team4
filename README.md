@@ -4,7 +4,7 @@
 
 ## Author List
 Andrew Linton: https://github.com/amlinton7 
-
+Malachi Ndur: https://github.com/MalachiNdur
 ## Project Scope
 
 ## Project Details
