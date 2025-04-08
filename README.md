@@ -1,5 +1,21 @@
 ## Hi there we are MSBA Team 4👋
 
+## Visualizations
+
+## Author List
+Andrew Linton: https://github.com/amlinton7 
+
+## Project Scope
+
+## Project Details
+
+## What's Next?
+
+## Responsible AI Considerations
+
+## References List
+
+
 <!--
 **MSBA-Team4/MSBA-Team4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
