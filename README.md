@@ -5,6 +5,7 @@ Malachi Ndur: https://github.com/MalachiNdur
 
 Grace Schaaff: https://github.com/gschaaff  
 
+Mauni Branch: https://github.com/ybranchy
 
 ## Visualizations
 
