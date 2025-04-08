@@ -1,10 +1,10 @@
-## Hi there we are MSBA Team 4👋
+## MSBA Team 4
+Andrew Linton: https://github.com/amlinton7 
+Malachi Ndur: https://github.com/MalachiNdur
+Grace Schaaff: https://github.com/gschaaff
 
 ## Visualizations
 
-## Author List
-Andrew Linton: https://github.com/amlinton7 
-Malachi Ndur: https://github.com/MalachiNdur
 ## Project Scope
 
 ## Project Details
