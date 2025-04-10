@@ -11,14 +11,23 @@ Mauni Branch: https://github.com/ybranchy
 
 ## Project Scope
 
-This project focuses specifically on AI in creative industries, with a narrow focus on AI-powered recommender systems in music streaming platforms. We aim to explore how user behaviors—especially shuffle play—impact the effectiveness of recommendations, and how this behavior can be modeled to enhance user experience and engagement with the platform.
+This project focuses specifically on AI in creative industries, with a narrow focus on AI-powered recommender systems in music streaming platforms. We aim to explore how user behaviors impact the effectiveness of recommendations, and how this behavior can be modeled to enhance user experience and engagement with the platform.
 
 ## Project Details
 
-## Demo Code: Recommender Systems
+#### Overview
 
-## 🚀 Run the Demo on Google Colab
-[Click here to launch the demo notebook in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1uDB6mOqb_SkLPCkuKNFWAYupRd5mLrOT?usp=sharing))
+#### Our Topic
+
+#### Problem
+
+#### Research
+
+
+## Demo Code: Recommender Systems
+[Click here to launch the demo notebook in Colab](https://colab.research.google.com/drive/1uDB6mOqb_SkLPCkuKNFWAYupRd5mLrOT?usp=sharing)
+
+## Website Demo: Vibe Coding
 
 
 ## What's Next?
