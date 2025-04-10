@@ -7,10 +7,13 @@ Grace Schaaff: https://github.com/gschaaff
 
 Mauni Branch: https://github.com/ybranchy
 
+### 📋 Project Kanban Board
+Check out our current progress and tasks on the [Kanban board](https://github.com/users/MSBA-Team4/projects/1) . 
 
 ## Project Scope
 
 This project focuses specifically on AI in creative industries, with a narrow focus on AI-powered recommender systems in music streaming platforms. We aim to explore how user behaviors impact the effectiveness of recommendations, and how this behavior can be modeled to enhance user experience and engagement with the platform.
+
 
 ## Project Details
 
