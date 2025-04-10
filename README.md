@@ -68,7 +68,17 @@ This helped us understand the scale and diversity of the music streaming data we
 
 Here are the visualizations we created during the data exploration phase to better understand our dataset before building the recommendation system.
 
-![Genre Distribution](images/genres.png)
+<p align="center">
+  <img src="images/genres.png" width="800px" alt="Genre Distribution">
+</p>
+
+
+<p align="center">
+  <img src="images/library.png" height="300px" width="400px" alt="In Library">
+  <img src="images/favorite.png" height="300px" width="400px" alt="Favorited">
+</p>
+
+
 
 
 ## Demo Code: Recommender Systems
