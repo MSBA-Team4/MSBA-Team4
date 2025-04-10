@@ -116,6 +116,7 @@ AI models like MUSE rely heavily on user interaction data, such as listening his
 [OpenAI](https://openai.com/)
 [Research Article](https://arxiv.org/pdf/2308.09649)
 [Claude](https://claude.ai/)
+[Gemini](gemini.google.com)
 
 
 <!--
