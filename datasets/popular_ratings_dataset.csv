@@ -1,0 +1,304 @@
+user_id,song_id,song_title,song_genres,in_library,is_favorited
+1,36,Stay With Me by Calvin Harris ft. Justin Timberlake,Dance,FALSE,FALSE
+1,8,Kiss Me More by Doja Cat ft. SZA,R&B,FALSE,FALSE
+1,72,Location by Khalid,R&B,TRUE,FALSE
+1,76,Starboy by The Weeknd,R&B,FALSE,TRUE
+1,95,One Kiss by Calvin Harris & Dua Lipa,House,FALSE,TRUE
+1,23,My Universe by Coldplay & BTS,Pop Rock,TRUE,FALSE
+1,81,Positions by Ariana Grande,R&B,TRUE,FALSE
+1,87,Paris by The Chainsmokers,EDM,TRUE,FALSE
+1,55,Nonsense by Sabrina Carpenter,Pop,FALSE,TRUE
+1,64,Shivers by Ed Sheeran,Pop,FALSE,TRUE
+1,7,MONTERO (Call Me By Your Name) by Lil Nas X,Hip-Hop,FALSE,TRUE
+1,45,Lavender Haze by Taylor Swift,Pop,FALSE,TRUE
+1,83,Therefore I Am by Billie Eilish,Alternative,FALSE,FALSE
+1,86,Holy by Justin Bieber,Pop,TRUE,TRUE
+2,35,Skate by Silk Sonic,R&B,TRUE,FALSE
+2,49,Ghost by Justin Bieber,Pop,TRUE,FALSE
+2,87,Paris by The Chainsmokers,EDM,FALSE,TRUE
+2,78,Don't Start Now by Dua Lipa,Pop,TRUE,TRUE
+2,6,Good 4 U by Olivia Rodrigo,Pop Rock,TRUE,FALSE
+2,10,Deja Vu by Olivia Rodrigo,Pop,TRUE,TRUE
+2,25,You Right by Doja Cat & The Weeknd,R&B,FALSE,TRUE
+2,98,IDGAF by Dua Lipa,Pop,FALSE,FALSE
+2,76,Starboy by The Weeknd,R&B,FALSE,FALSE
+2,93,Rocka bye by Clean Bandit,Pop,FALSE,FALSE
+3,47,Kill Bill by SZA,R&B,TRUE,TRUE
+3,66,Glimpse of Us by Joji,Ballad,TRUE,FALSE
+3,64,Shivers by Ed Sheeran,Pop,FALSE,FALSE
+3,60,Forget Me by Lewis Capaldi,Ballad,TRUE,TRUE
+3,13,Stay by The Kid LAROI & Justin Bieber,Pop,FALSE,TRUE
+3,93,Rocka bye by Clean Bandit,Pop,FALSE,TRUE
+3,61,Until I Found You by Stephen Sanchez,Retro Pop,FALSE,FALSE
+3,98,IDGAF by Dua Lipa,Pop,FALSE,FALSE
+3,41,As It Was by Harry Styles,Pop,FALSE,FALSE
+3,27,Good Days by SZA,R&B,TRUE,FALSE
+3,48,I'm Good (Blue) by David Guetta & Bebe Rexha,Dance,TRUE,TRUE
+3,53,Made You Look by Meghan Trainor,Pop,FALSE,TRUE
+3,6,Good 4 U by Olivia Rodrigo,Pop Rock,TRUE,TRUE
+3,73,Talk by Khalid,R&B,TRUE,TRUE
+4,53,Made You Look by Meghan Trainor,Pop,FALSE,FALSE
+4,18,Need To Know by Doja Cat,R&B,TRUE,FALSE
+4,81,Positions by Ariana Grande,R&B,FALSE,TRUE
+4,30,Up by Cardi B,Hip-Hop,TRUE,FALSE
+4,9,Drivers License by Olivia Rodrigo,Pop,TRUE,TRUE
+4,91,Praise God by Kanye West,Hip-Hop,FALSE,FALSE
+4,20,Heat Waves by Glass Animals,Indie Rock,TRUE,FALSE
+4,2,Watermelon Sugar by Harry Styles,Pop,TRUE,TRUE
+4,28,Telepatía by Kali Uchis,R&B,TRUE,TRUE
+4,65,I Like You by Post Malone & Doja Cat,Pop,TRUE,TRUE
+5,68,Jimmy Cooks by Drake & 21 Savage,Hip-Hop,TRUE,FALSE
+5,33,Wild Side by Normani ft. Cardi B,R&B,FALSE,FALSE
+5,46,Creepin' by Metro Boomin ft. The Weeknd,Hip-Hop,FALSE,TRUE
+5,35,Skate by Silk Sonic,R&B,TRUE,TRUE
+5,102,Stitches by Shawn Mendes,Pop,TRUE,FALSE
+5,51,Die For You by The Weeknd,R&B,FALSE,FALSE
+5,11,Industry Ba by by Lil Nas X & Jack Harlow,Hip-Hop,TRUE,TRUE
+5,48,I'm Good (Blue) by David Guetta & Bebe Rexha,Dance,TRUE,TRUE
+5,52,Cuff It by Beyonce,Disco Funk,FALSE,FALSE
+5,59,Calm Down by Rema & Selena Gomez,Afrobeats,TRUE,TRUE
+5,73,Talk by Khalid,R&B,FALSE,TRUE
+5,32,Rumors by Lizzo ft. Cardi B,Hip-Hop,TRUE,FALSE
+5,90,Goosebumps by Travis Scott,Hip-Hop,TRUE,TRUE
+5,29,Dakiti by Bad Bunny & Jhay Cortez,Reggaeton,TRUE,FALSE
+5,39,Sunroof by Nicky Youre & dazy,Pop,TRUE,FALSE
+5,88,Closer by The Chainsmokers & Halsey,EDM,TRUE,TRUE
+5,84,Bury a Friend by Billie Eilish,Alternative,FALSE,FALSE
+5,98,IDGAF by Dua Lipa,Pop,FALSE,TRUE
+5,5,Save Your Tears by The Weeknd,Pop,TRUE,FALSE
+6,13,Stay by The Kid LAROI & Justin Bieber,Pop,FALSE,TRUE
+6,56,B.O.T.A. by Eliza Rose,House,FALSE,FALSE
+6,30,Up by Cardi B,Hip-Hop,FALSE,TRUE
+6,10,Deja Vu by Olivia Rodrigo,Pop,FALSE,FALSE
+6,44,Anti-Hero by Taylor Swift,Indie Pop,FALSE,TRUE
+6,78,Don't Start Now by Dua Lipa,Pop,FALSE,TRUE
+6,99,Havana by Camila Cabello,Latin Pop,FALSE,TRUE
+6,79,Break My Soul by Beyonce,House,TRUE,TRUE
+6,77,Can't Feel My Face by The Weeknd,Pop,FALSE,TRUE
+6,51,Die For You by The Weeknd,R&B,FALSE,TRUE
+7,41,As It Was by Harry Styles,Pop,TRUE,TRUE
+7,47,Kill Bill by SZA,R&B,TRUE,FALSE
+7,14,Bad Habits by Ed Sheeran,Pop,TRUE,FALSE
+7,12,Butter by BTS,Pop,FALSE,TRUE
+7,1,Blinding Lights by The Weeknd,Pop,FALSE,FALSE
+7,40,I Ain't Worried by OneRepublic,Pop,FALSE,TRUE
+7,57,Golden Hour by JVKE,Pop,TRUE,TRUE
+7,98,IDGAF by Dua Lipa,Pop,FALSE,TRUE
+7,35,Skate by Silk Sonic,R&B,TRUE,FALSE
+7,17,Happier Than Ever by Billie Eilish,Alternative,FALSE,FALSE
+7,24,Take My Breath by The Weeknd,Pop,FALSE,TRUE
+7,56,B.O.T.A. by Eliza Rose,House,TRUE,TRUE
+7,58,10:35 by Tiasto & Tate McRae,EDM,FALSE,FALSE
+7,72,Location by Khalid,R&B,FALSE,FALSE
+7,66,Glimpse of Us by Joji,Ballad,FALSE,TRUE
+7,53,Made You Look by Meghan Trainor,Pop,FALSE,FALSE
+8,93,Rocka bye by Clean Bandit,Pop,FALSE,FALSE
+8,81,Positions by Ariana Grande,R&B,FALSE,FALSE
+8,64,Shivers by Ed Sheeran,Pop,FALSE,TRUE
+8,77,Can't Feel My Face by The Weeknd,Pop,FALSE,FALSE
+8,79,Break My Soul by Beyonce,House,TRUE,FALSE
+8,26,Beggin' by Maneskin,Rock,FALSE,TRUE
+8,59,Calm Down by Rema & Selena Gomez,Afrobeats,FALSE,FALSE
+8,14,Bad Habits by Ed Sheeran,Pop,FALSE,FALSE
+8,18,Need To Know by Doja Cat,R&B,TRUE,FALSE
+8,39,Sunroof by Nicky Youre & dazy,Pop,FALSE,FALSE
+8,1,Blinding Lights by The Weeknd,Pop,FALSE,FALSE
+8,51,Die For You by The Weeknd,R&B,TRUE,TRUE
+8,43,Unholy by Sam Smith & Kim Petras,Pop,TRUE,TRUE
+9,91,Praise God by Kanye West,Hip-Hop,FALSE,FALSE
+9,27,Good Days by SZA,R&B,TRUE,FALSE
+9,57,Golden Hour by JVKE,Pop,FALSE,FALSE
+9,38,Late Night Talking by Harry Styles,Pop,FALSE,TRUE
+9,89,Roses (Imanbek Remix) by SAINt JHN,EDM,FALSE,TRUE
+9,9,Drivers License by Olivia Rodrigo,Pop,TRUE,TRUE
+9,102,Stitches by Shawn Mendes,Pop,FALSE,TRUE
+9,53,Made You Look by Meghan Trainor,Pop,TRUE,FALSE
+9,87,Paris by The Chainsmokers,EDM,FALSE,FALSE
+9,64,Shivers by Ed Sheeran,Pop,TRUE,TRUE
+9,18,Need To Know by Doja Cat,R&B,TRUE,FALSE
+9,82,34+35 by Ariana Grande,Pop,TRUE,TRUE
+9,39,Sunroof by Nicky Youre & dazy,Pop,FALSE,FALSE
+9,31,Thot Shit by Megan Thee Stallion,Hip-Hop,FALSE,FALSE
+9,33,Wild Side by Normani ft. Cardi B,R&B,TRUE,FALSE
+9,85,Stuck with U by Ariana Grande & Justin Bieber,Pop,TRUE,FALSE
+9,20,Heat Waves by Glass Animals,Indie Rock,TRUE,FALSE
+10,11,Industry Ba by by Lil Nas X & Jack Harlow,Hip-Hop,FALSE,FALSE
+10,15,Shivers by Ed Sheeran,Pop,TRUE,FALSE
+10,94,Symphony by Clean Bandit & Zara Larsson,Pop,TRUE,TRUE
+10,19,Essence by Wizkid ft. Tems,Afrobeats,TRUE,FALSE
+10,45,Lavender Haze by Taylor Swift,Pop,TRUE,TRUE
+10,40,I Ain't Worried by OneRepublic,Pop,TRUE,TRUE
+10,44,Anti-Hero by Taylor Swift,Indie Pop,TRUE,FALSE
+10,59,Calm Down by Rema & Selena Gomez,Afrobeats,FALSE,FALSE
+10,101,Treat You Better by Shawn Mendes,Pop,TRUE,FALSE
+10,27,Good Days by SZA,R&B,TRUE,TRUE
+10,67,First Class by Jack Harlow,Hip-Hop,FALSE,FALSE
+10,62,The Motto by Tiasto & Ava Max,EDM,TRUE,TRUE
+10,61,Until I Found You by Stephen Sanchez,Retro Pop,FALSE,FALSE
+10,13,Stay by The Kid LAROI & Justin Bieber,Pop,FALSE,TRUE
+10,57,Golden Hour by JVKE,Pop,TRUE,TRUE
+10,93,Rocka bye by Clean Bandit,Pop,FALSE,TRUE
+11,14,Bad Habits by Ed Sheeran,Pop,TRUE,FALSE
+11,69,Circles by Post Malone,Pop Rock,FALSE,FALSE
+11,24,Take My Breath by The Weeknd,Pop,TRUE,FALSE
+11,47,Kill Bill by SZA,R&B,TRUE,TRUE
+11,42,About Damn Time by Lizzo,Funk Pop,FALSE,TRUE
+11,26,Beggin' by Maneskin,Rock,TRUE,FALSE
+11,59,Calm Down by Rema & Selena Gomez,Afrobeats,TRUE,TRUE
+11,15,Shivers by Ed Sheeran,Pop,FALSE,TRUE
+11,34,Leave The Door Open by Silk Sonic,R&B,FALSE,FALSE
+11,86,Holy by Justin Bieber,Pop,TRUE,FALSE
+11,63,2 Be Loved by Lizzo,Disco Pop,FALSE,TRUE
+11,68,Jimmy Cooks by Drake & 21 Savage,Hip-Hop,FALSE,TRUE
+11,82,34+35 by Ariana Grande,Pop,TRUE,FALSE
+11,41,As It Was by Harry Styles,Pop,FALSE,TRUE
+11,77,Can't Feel My Face by The Weeknd,Pop,TRUE,FALSE
+11,50,Under The Influence by Chris Brown,R&B,FALSE,TRUE
+11,79,Break My Soul by Beyonce,House,FALSE,TRUE
+11,51,Die For You by The Weeknd,R&B,FALSE,TRUE
+11,76,Starboy by The Weeknd,R&B,TRUE,FALSE
+12,65,I Like You by Post Malone & Doja Cat,Pop,FALSE,TRUE
+12,84,Bury a Friend by Billie Eilish,Alternative,FALSE,TRUE
+12,64,Shivers by Ed Sheeran,Pop,FALSE,FALSE
+12,53,Made You Look by Meghan Trainor,Pop,TRUE,TRUE
+12,88,Closer by The Chainsmokers & Halsey,EDM,FALSE,FALSE
+12,63,2 Be Loved by Lizzo,Disco Pop,TRUE,FALSE
+12,54,Victoria's Secret by Jax,Pop,TRUE,FALSE
+12,91,Praise God by Kanye West,Hip-Hop,TRUE,TRUE
+12,57,Golden Hour by JVKE,Pop,FALSE,TRUE
+12,22,Cold Heart by Elton John & Dua Lipa,Dance,FALSE,FALSE
+12,11,Industry Ba by by Lil Nas X & Jack Harlow,Hip-Hop,FALSE,TRUE
+12,73,Talk by Khalid,R&B,FALSE,TRUE
+12,4,Peaches by Justin Bieber,R&B,TRUE,TRUE
+12,102,Stitches by Shawn Mendes,Pop,FALSE,FALSE
+12,98,IDGAF by Dua Lipa,Pop,TRUE,TRUE
+12,29,Dakiti by Bad Bunny & Jhay Cortez,Reggaeton,TRUE,TRUE
+12,38,Late Night Talking by Harry Styles,Pop,TRUE,FALSE
+12,5,Save Your Tears by The Weeknd,Pop,FALSE,TRUE
+13,91,Praise God by Kanye West,Hip-Hop,TRUE,TRUE
+13,38,Late Night Talking by Harry Styles,Pop,TRUE,FALSE
+13,74,One Dance by Drake,Afrobeat,TRUE,FALSE
+13,35,Skate by Silk Sonic,R&B,FALSE,TRUE
+13,66,Glimpse of Us by Joji,Ballad,FALSE,FALSE
+13,87,Paris by The Chainsmokers,EDM,FALSE,FALSE
+13,13,Stay by The Kid LAROI & Justin Bieber,Pop,TRUE,TRUE
+13,18,Need To Know by Doja Cat,R&B,FALSE,FALSE
+13,97,New Rules by Dua Lipa,Pop,FALSE,FALSE
+13,101,Treat You Better by Shawn Mendes,Pop,FALSE,FALSE
+13,53,Made You Look by Meghan Trainor,Pop,TRUE,TRUE
+13,8,Kiss Me More by Doja Cat ft. SZA,R&B,FALSE,FALSE
+13,36,Stay With Me by Calvin Harris ft. Justin Timberlake,Dance,TRUE,FALSE
+13,84,Bury a Friend by Billie Eilish,Alternative,TRUE,FALSE
+13,17,Happier Than Ever by Billie Eilish,Alternative,TRUE,FALSE
+14,42,About Damn Time by Lizzo,Funk Pop,FALSE,TRUE
+14,37,Bad Habit by Steve Lacy,Alternative,TRUE,TRUE
+14,44,Anti-Hero by Taylor Swift,Indie Pop,FALSE,FALSE
+14,71,The Spins by Mac Miller,Indie Rap,TRUE,FALSE
+14,74,One Dance by Drake,Afrobeat,TRUE,TRUE
+14,17,Happier Than Ever by Billie Eilish,Alternative,FALSE,TRUE
+14,73,Talk by Khalid,R&B,FALSE,TRUE
+14,63,2 Be Loved by Lizzo,Disco Pop,FALSE,FALSE
+14,101,Treat You Better by Shawn Mendes,Pop,TRUE,FALSE
+14,88,Closer by The Chainsmokers & Halsey,EDM,TRUE,TRUE
+14,98,IDGAF by Dua Lipa,Pop,FALSE,FALSE
+14,7,MONTERO (Call Me By Your Name) by Lil Nas X,Hip-Hop,TRUE,FALSE
+14,6,Good 4 U by Olivia Rodrigo,Pop Rock,TRUE,TRUE
+14,13,Stay by The Kid LAROI & Justin Bieber,Pop,TRUE,TRUE
+15,10,Deja Vu by Olivia Rodrigo,Pop,TRUE,TRUE
+15,17,Happier Than Ever by Billie Eilish,Alternative,FALSE,FALSE
+15,76,Starboy by The Weeknd,R&B,FALSE,TRUE
+15,29,Dakiti by Bad Bunny & Jhay Cortez,Reggaeton,FALSE,TRUE
+15,67,First Class by Jack Harlow,Hip-Hop,TRUE,TRUE
+15,88,Closer by The Chainsmokers & Halsey,EDM,TRUE,TRUE
+15,57,Golden Hour by JVKE,Pop,FALSE,FALSE
+15,2,Watermelon Sugar by Harry Styles,Pop,TRUE,TRUE
+15,90,Goosebumps by Travis Scott,Hip-Hop,FALSE,FALSE
+15,44,Anti-Hero by Taylor Swift,Indie Pop,TRUE,TRUE
+15,16,Easy On Me by Adele,Soul,TRUE,TRUE
+15,55,Nonsense by Sabrina Carpenter,Pop,TRUE,FALSE
+15,89,Roses (Imanbek Remix) by SAINt JHN,EDM,FALSE,FALSE
+15,62,The Motto by Tiasto & Ava Max,EDM,FALSE,TRUE
+15,30,Up by Cardi B,Hip-Hop,TRUE,FALSE
+15,50,Under The Influence by Chris Brown,R&B,TRUE,TRUE
+15,12,Butter by BTS,Pop,FALSE,TRUE
+16,39,Sunroof by Nicky Youre & dazy,Pop,TRUE,FALSE
+16,27,Good Days by SZA,R&B,FALSE,TRUE
+16,67,First Class by Jack Harlow,Hip-Hop,FALSE,FALSE
+16,78,Don't Start Now by Dua Lipa,Pop,FALSE,TRUE
+16,66,Glimpse of Us by Joji,Ballad,FALSE,TRUE
+16,25,You Right by Doja Cat & The Weeknd,R&B,TRUE,TRUE
+16,96,This Is What You Came For by Calvin Harris & Rihanna,EDM,TRUE,FALSE
+16,51,Die For You by The Weeknd,R&B,TRUE,TRUE
+16,38,Late Night Talking by Harry Styles,Pop,TRUE,FALSE
+16,83,Therefore I Am by Billie Eilish,Alternative,FALSE,FALSE
+16,7,MONTERO (Call Me By Your Name) by Lil Nas X,Hip-Hop,FALSE,FALSE
+16,101,Treat You Better by Shawn Mendes,Pop,TRUE,TRUE
+16,102,Stitches by Shawn Mendes,Pop,FALSE,TRUE
+16,31,Thot Shit by Megan Thee Stallion,Hip-Hop,FALSE,TRUE
+16,64,Shivers by Ed Sheeran,Pop,TRUE,TRUE
+16,50,Under The Influence by Chris Brown,R&B,FALSE,FALSE
+16,15,Shivers by Ed Sheeran,Pop,TRUE,FALSE
+16,82,34+35 by Ariana Grande,Pop,FALSE,TRUE
+16,77,Can't Feel My Face by The Weeknd,Pop,TRUE,TRUE
+16,10,Deja Vu by Olivia Rodrigo,Pop,TRUE,FALSE
+17,59,Calm Down by Rema & Selena Gomez,Afrobeats,TRUE,TRUE
+17,79,Break My Soul by Beyonce,House,TRUE,FALSE
+17,78,Don't Start Now by Dua Lipa,Pop,FALSE,FALSE
+17,8,Kiss Me More by Doja Cat ft. SZA,R&B,TRUE,FALSE
+17,40,I Ain't Worried by OneRepublic,Pop,TRUE,FALSE
+17,86,Holy by Justin Bieber,Pop,TRUE,TRUE
+17,95,One Kiss by Calvin Harris & Dua Lipa,House,FALSE,FALSE
+17,85,Stuck with U by Ariana Grande & Justin Bieber,Pop,FALSE,TRUE
+17,23,My Universe by Coldplay & BTS,Pop Rock,FALSE,TRUE
+17,16,Easy On Me by Adele,Soul,FALSE,FALSE
+17,2,Watermelon Sugar by Harry Styles,Pop,FALSE,TRUE
+18,73,Talk by Khalid,R&B,TRUE,TRUE
+18,22,Cold Heart by Elton John & Dua Lipa,Dance,FALSE,FALSE
+18,48,I'm Good (Blue) by David Guetta & Bebe Rexha,Dance,FALSE,TRUE
+18,21,Fancy Like by Walker Hayes,Country,TRUE,TRUE
+18,33,Wild Side by Normani ft. Cardi B,R&B,FALSE,TRUE
+18,99,Havana by Camila Cabello,Latin Pop,FALSE,TRUE
+18,14,Bad Habits by Ed Sheeran,Pop,FALSE,FALSE
+18,74,One Dance by Drake,Afrobeat,FALSE,TRUE
+18,87,Paris by The Chainsmokers,EDM,FALSE,TRUE
+18,93,Rocka bye by Clean Bandit,Pop,TRUE,TRUE
+18,15,Shivers by Ed Sheeran,Pop,TRUE,TRUE
+18,30,Up by Cardi B,Hip-Hop,FALSE,TRUE
+18,95,One Kiss by Calvin Harris & Dua Lipa,House,FALSE,FALSE
+18,66,Glimpse of Us by Joji,Ballad,FALSE,FALSE
+18,1,Blinding Lights by The Weeknd,Pop,TRUE,FALSE
+18,6,Good 4 U by Olivia Rodrigo,Pop Rock,TRUE,FALSE
+18,2,Watermelon Sugar by Harry Styles,Pop,TRUE,FALSE
+19,101,Treat You Better by Shawn Mendes,Pop,TRUE,TRUE
+19,39,Sunroof by Nicky Youre & dazy,Pop,FALSE,TRUE
+19,95,One Kiss by Calvin Harris & Dua Lipa,House,FALSE,TRUE
+19,80,In Your Eyes by The Weeknd,Synthpop,FALSE,FALSE
+19,32,Rumors by Lizzo ft. Cardi B,Hip-Hop,TRUE,TRUE
+19,60,Forget Me by Lewis Capaldi,Ballad,TRUE,FALSE
+19,48,I'm Good (Blue) by David Guetta & Bebe Rexha,Dance,FALSE,TRUE
+19,76,Starboy by The Weeknd,R&B,TRUE,FALSE
+19,64,Shivers by Ed Sheeran,Pop,TRUE,TRUE
+19,99,Havana by Camila Cabello,Latin Pop,TRUE,FALSE
+19,100,Senorita by Shawn Mendes & Camila Cabello,Pop,FALSE,FALSE
+19,26,Beggin' by Maneskin,Rock,TRUE,TRUE
+19,94,Symphony by Clean Bandit & Zara Larsson,Pop,TRUE,FALSE
+19,70,No Role Modelz by J. Cole,Hip-Hop,TRUE,TRUE
+19,98,IDGAF by Dua Lipa,Pop,FALSE,TRUE
+19,102,Stitches by Shawn Mendes,Pop,TRUE,FALSE
+19,20,Heat Waves by Glass Animals,Indie Rock,FALSE,FALSE
+19,1,Blinding Lights by The Weeknd,Pop,FALSE,FALSE
+19,53,Made You Look by Meghan Trainor,Pop,FALSE,FALSE
+20,30,Up by Cardi B,Hip-Hop,TRUE,FALSE
+20,10,Deja Vu by Olivia Rodrigo,Pop,TRUE,FALSE
+20,26,Beggin' by Mabeskin,Rock,FALSE,FALSE
+20,18,Need To Know by Doja Cat,R&B,FALSE,TRUE
+20,100,Senorita  by Shawn Mendes & Camila Cabello,Pop,TRUE,TRUE
+20,99,Havana by Camila Cabello,Latin Pop,FALSE,TRUE
+20,75,Hotline Bling by Drake,Hip-Hop,TRUE,FALSE
+20,14,Bad Habits by Ed Sheeran,Pop,TRUE,TRUE
+20,20,Heat Waves by Glass Animals,Indie Rock,TRUE,FALSE
+20,22,Cold Heart by Elton John & Dua Lipa,Dance,FALSE,TRUE
+20,58,10:35 by Tiasto & Tate McRae,EDM,FALSE,FALSE
+20,60,Forget Me by Lewis Capaldi,Ballad,TRUE,TRUE
+20,41,As It Was by Harry Styles,Pop,FALSE,FALSE
+20,53,Made You Look by Meghan Trainor,Pop,TRUE,TRUE
