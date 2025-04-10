@@ -95,6 +95,16 @@ This project demonstrates how even simple machine learning models, developed in 
 
 ## Website Demo: Vibe Coding
 
+For the website demo, we utilized the large language models Claude, ChatGPT, and Google Gemini to expand the functionality of our demo code into a Website App with a more intuitive user interface. This program worked similarly to our demo code but was much more in depth. This program received the user's input as to preferred genre, mood, song tempo, and lyrical complexity, and recommends 5 songs based on how closely they match said inputs.
+
+We tackled this project using ‘vibe coding’, which is a programming technique that generates advanced level code by leveraging AI’s ability to understand natural language prompts.To successfully vibe-code our web-app, we prompted various LLMs with extremely specific parameters for our project, for example: 
+
+*You are a coder with 40 years of experience. I'd like you to create me a google app script for song recommendations. Provide an app script code file for back and and an HTML file for front end. Use text boxes to get user input. This should be very functional and clean, and does not have to be overly complicated, yet should help us to effectively demonstrate the benefits of AI recommenders to the board of our company. Please use a decently sized database of songs to allow users to get a customizable experience. Please ask me any questions you have before you generate the script. 
+
+Let's use genre, mood, song tempo, and lyrical complexity as inputs to base recommendations on. Allow users to provide feedback to improve future recommendations. It can be a mix of genres and musical eras. I do not need links to the songs. Please show 5 to 10 recommendations at once. The interface can be simple but should be aesthetic. Please ensure that the code will be functional.*
+
+We then input the vibe code that the LLM generated into our web-app script and began the debugging process. A few of the issues we ran into included (but were not limited to_, the website not opening at all when deployed, the website opening to a blank page, the website opening with the correct user interface but with no way to interact, and finally, the website opening with a fully functional user interface but a limited song database that did not vary enough to customize to the user’s preferences. As we reached each of these problems, we returned to the LLM with more specific prompts that allowed us to focus the code specifically on our project goal and solve each problem as we went along. We used all 3 LLMs to generate different song lists so that our database would be large enough to customize. We also manually changed the number of song recommendations from 5-10 so that each song was a better match to the user’s inputs.
+
 
 ## What's Next?
 Looking ahead, future directions include:
