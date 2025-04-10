@@ -15,13 +15,23 @@ This project focuses specifically on AI in creative industries, with a narrow fo
 
 ## Project Details
 
-#### Overview
+### Overview
 
-#### Our Topic
+### Our Topic
 
-#### Problem
+### Problem
 
-#### Research
+Describe our Problem
+
+#### Business Importance:
+
+Recommender systems are vital to user satisfaction and platform success. Personalized recommendations:
+- Increase user retention and engagement.
+- Encourage longer listening sessions.
+- Drive revenue via subscriptions and advertisements.
+Failing to understand how users interact with features like shuffle can degrade performance and reduce user satisfaction, potentially impacting business growth.
+
+### Research
 
 
 ## Demo Code: Recommender Systems
