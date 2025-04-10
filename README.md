@@ -94,7 +94,7 @@ We first converted user and song IDs into numeric values to make them compatible
 This project demonstrates how even simple machine learning models, developed in Python, can be used to create meaningful, personalized experiences based on user behavior.
 
 ## Website Demo: Vibe Coding
-[Click here to access the web-app interface](https://script.google.com/a/macros/wm.edu/s/AKfycbxIfrPhbLQ5sEODaAEB-_T7MT_QnJLwyJU6DHETF4qDgFXrTqu_qkZk2J1LXs0VPZM/exec)
+[Click here to access the web-app interface](https://script.google.com/macros/s/AKfycbyVYWKeaGxByyANSG854Je92sPNDCKnlLPoKlAcqiXzuqBt1ecJT96OMdrxBUpLI2f6/exec)
 
 For the website demo, we utilized the large language models Claude, ChatGPT, and Google Gemini to expand the functionality of our demo code into a Website App with a more intuitive user interface. This program works in a similar theme to our demo code, but expands on its functionality. The program receives the user's input as to preferred genre, mood, song tempo, and lyrical complexity, and recommends 5 songs based on how closely they match said inputs. The user can then rate each recommended song on a scale of 1-5, which the algorithm stores in short-term storage for the duration of that user's session. The model adapts to which matching inputs the user ranks higher, and curates the recommendations accordingly. For example, if a user consistently highly rates songs that match their preferences in genre, the model will prioritize matching the user's genre preference more highly than the song tempo preference. 
 
