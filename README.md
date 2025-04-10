@@ -18,7 +18,7 @@ The business problem we aim to address is increasing customer loyalty and growth
 
 Much of the reason for the expansion of digital music streaming in the past 10 years, as compared to CDs, iPods, etc. is the level of customizeability and recommendation that a streaming platform can offer. A key differentiator for major platforms such as Spotify and Apple Music, is the companies' abilities to procure music that is directly to the user's taste. As these companies, and their smaller competitors continue to fight for customers, building AI models that are more in-tune with a customer's preferences is a crucial competitive advantage. 
 
-Through out project, we demonstrate the benefits of recommender systems to companies in growing subscriptions and revenue, and value-add to consumers in bettering their music-listening experiences. 
+Through our project, we demonstrate the benefits of recommender systems to companies in growing subscriptions and revenue, and the value-add to consumers in bettering their music-listening experiences. 
 
 ### Overview
 
