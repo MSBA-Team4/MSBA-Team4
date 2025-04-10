@@ -25,11 +25,7 @@ Describe our Problem
 
 #### Business Importance:
 
-Recommender systems are vital to user satisfaction and platform success. Personalized recommendations:
-- Increase user retention and engagement.
-- Encourage longer listening sessions.
-- Drive revenue via subscriptions and advertisements.
-Failing to understand how users interact with features like shuffle can degrade performance and reduce user satisfaction, potentially impacting business growth.
+Recommender systems are critical for businesses to engage users, increase listening time, and boost retention. Personalized recommendations improve user satisfaction, driving platform loyalty and increasing the likelihood of premium subscriptions or ad interactions. Inaccurate recommendations can lead users to switch platforms or disengage entirely, affecting revenue and user growth.
 
 ### Research
 
@@ -47,6 +43,15 @@ Looking ahead, future directions include:
 - Addressing **bias and fairness** in recommendation outputs.
 - Exploring **multi-modal AI** (e.g., combining audio features, text metadata, and behavior).
 - Considering **ethical implications** like filter bubbles and artist representation.
+
+OR 
+
+As music recommender systems become more advanced, future directions include:
+- Incorporating mood/emotion detection from songs and user behavior.
+- Real-time learning to adapt to shifting user tastes.
+- Ethical concerns, such as reinforcing filter bubbles or limiting exposure to diverse music.
+- Fairness and bias in music recommendations (e.g., under-promoting certain artists or genres).
+- Broader application of multi-modal AI, combining text, audio, and user behavior to create richer models.
   
 ## Responsible AI Considerations
 
