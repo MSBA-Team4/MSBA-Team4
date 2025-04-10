@@ -7,7 +7,6 @@ Grace Schaaff: https://github.com/gschaaff
 
 Mauni Branch: https://github.com/ybranchy
 
-## Visualizations
 
 ## Project Scope
 
@@ -54,6 +53,21 @@ Using AI for recommendations can also increase operational efficiency. The model
 MUSE is an example of an advanced music recommender system that takes “shuffle play” into account. Shuffling songs puts tracks in a random order, and the user is not actively choosing to listen to that specific song, so it can hinder a typical recommender system and lead to less accurate suggestions.
 
 Therefore, the MUSE system focuses on improving music recommendations by learning from the seemingly random shuffle play behavior. Unlike traditional systems that focus only on individual songs, MUSE models entire sequences of tracks (like how users move from one song to the next) to capture how users engage with a playlist or listening session. It also takes into account data like number of skips, replays, and total listening duration. 
+
+## Data Exploration & Visualizations
+
+Before building our recommendation system, we conducted a brief exploratory analysis of the dataset to better understand user behavior and song attributes.
+
+### Key Insights:
+
+- 🎧 Unique Users: 20
+- 🎵 Unique Songs: 101
+- 🎼 Unique Genres: 24
+
+This helped us understand the scale and diversity of the music streaming data we were working with.
+
+Here are the visualizations we created during the data exploration phase to better understand our dataset before building the recommendation system.
+
 
 
 ## Demo Code: Recommender Systems
