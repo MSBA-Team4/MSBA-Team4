@@ -128,10 +128,13 @@ AI models like MUSE rely heavily on user interaction data, such as listening his
 
 ## References List
 
-[OpenAI](https://openai.com/)
-[Research Article](https://arxiv.org/pdf/2308.09649)
-[Claude](https://claude.ai/)
-[Gemini](gemini.google.com)
+Anthropic. (n.d.). Claude. https://claude.ai/
+
+Lam, M., Lin, Z., & Bressler, D. W. (2023). MusAI: Generative Recommender Systems for Music (arXiv:2308.09649). arXiv. https://arxiv.org/abs/2308.09649
+
+Google. (n.d.). Gemini. https://gemini.google.com/
+
+OpenAI. (n.d.). OpenAI. https://openai.com/
 
 
 <!--
