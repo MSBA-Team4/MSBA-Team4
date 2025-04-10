@@ -20,7 +20,7 @@ This project focuses specifically on AI in creative industries, with a narrow fo
 Art is extremely subjective. Whether you are looking at a painting, reading a book, listening to a song, or watching a movie, you may have a completely different response to it than the person sitting next to you, experiencing the same piece of work, but in an entirely different way. This subjectivity is what makes it very difficult for AI to recreate art that has the same effect as that of created by human beings. 
 While AI may not be the best way to create art, it can be useful in many different ways to supplement art made by humans. Within creative industries, AI is  transforming how artists, designers, writers, and musicians work, as it has the ability to edit photos and videos, proofread writing, and even generate its own images. 
 
-### Our Topic
+### Our Topic: AI In Music Streaming Platforms 
 
 Another example of AI being used to supplement creativity is through recommender systems. Because all forms of art are experienced in a very personal way, it can be useful to have the art you experience, whether it be books, movies, music, or something else entirely, be personalized to your tastes. AI can enhance discovery by understanding user behavior patterns. Many streaming services, such as Netflix or Spotify, are already using AI in order to make movie or music recommendations for their users. This is why, for the purposes of our project, we have chosen to explore how recommender systems, specifically in music streaming platforms, use AI to personalize listening experiences and make recommendations. 
 
