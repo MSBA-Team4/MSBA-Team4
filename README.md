@@ -31,9 +31,9 @@ While AI may not be the best way to create art, it can be useful in many differe
 Another example of AI being used to supplement creativity is through recommender systems. Because all forms of art are experienced in a very personal way, it can be useful to have the art you experience, whether it be books, movies, music, or something else entirely, be personalized to your tastes. AI can enhance discovery by understanding user behavior patterns. Many streaming services, such as Netflix or Spotify, are already using AI in order to make movie or music recommendations for their users. This is why, for the purposes of our project, we have chosen to explore how recommender systems, specifically in music streaming platforms, use AI to personalize listening experiences and make recommendations. 
 
 
-### Problem
+### Business Problem
 
-The business problem we aim to address is increasing customer loyalty and growth. The majority of music streaming platforms are driven by a subscription model, meaning that they rely on the recurring revenue of customers' monthly or annual payments to the platform. Thus, stable revenue is dependent on loyal customers, and growing revenue is dependent on growing the customer base. 
+The business problem we aim to address is increasing customer loyalty and growth through stronger, more customized recommendations. The majority of music streaming platforms are driven by a subscription model, meaning that they rely on the recurring revenue of customers' monthly or annual payments to the platform. Thus, stable revenue is dependent on loyal customers, and growing revenue is dependent on growing the customer base. 
 
 Much of the reason for the expansion of digital music streaming in the past 10 years, as compared to CDs, iPods, etc. is the level of customizeability and recommendation that a streaming platform can offer. A key differentiator for major platforms such as Spotify and Apple Music, is the companies' abilities to procure music that is directly to the user's taste. As these companies, and their smaller competitors continue to fight for customers, building AI models that are more in-tune with a customer's preferences is a crucial competitive advantage. 
 
