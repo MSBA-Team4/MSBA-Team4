@@ -29,7 +29,7 @@ Another example of AI being used to supplement creativity is through recommender
 
 Describe our Problem
 
-#### Business Importance:
+### Business Importance
 
 Recommender systems are important for businesses in order to cater to their specific customer base overall, as well as allowing them to target multiple niche customer segments simultaneously. Personalized recommendations will improve user experience, which is always good for businesses. A user who feels the platform "gets" them is more likely to return, listen longer, and subscribe. Accurate recommendations increase  interaction with the platform and overall brand loyalty. The accuracy or quality of recommendations and personalization can even be used as a way for brands to differentiate among competitors.
 
@@ -38,7 +38,11 @@ Recommender systems are also very useful for platforms that rely on ad revenue, 
 Using AI for recommendations can also increase operational efficiency. The model has the ability to collect user data and make recommendations for a large scale of users in a short time. 
 
 
-### Research
+### Research: MUSE 
+
+MUSE is an example of an advanced music recommender system that takes “shuffle play” into account. Shuffling songs puts tracks in a random order, and the user is not actively choosing to listen to that specific song, so it can hinder a typical recommender system and lead to less accurate suggestions.
+
+Therefore, the MUSE system focuses on improving music recommendations by learning from the seemingly random shuffle play behavior. Unlike traditional systems that focus only on individual songs, MUSE models entire sequences of tracks (like how users move from one song to the next) to capture how users engage with a playlist or listening session. It also takes into account data like number of skips, replays, and total listening duration. 
 
 
 ## Demo Code: Recommender Systems
