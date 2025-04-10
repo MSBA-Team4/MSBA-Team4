@@ -68,6 +68,7 @@ This helped us understand the scale and diversity of the music streaming data we
 
 Here are the visualizations we created during the data exploration phase to better understand our dataset before building the recommendation system.
 
+![Genre Distribution](images/genres.png)
 
 
 ## Demo Code: Recommender Systems
