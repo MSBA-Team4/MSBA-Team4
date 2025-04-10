@@ -15,6 +15,10 @@ This project focuses specifically on AI in creative industries, with a narrow fo
 
 ## Project Details
 
+## Demo Code: Recommender Systems
+
+## 🚀 Run the Demo on Google Colab
+[Click here to launch the demo notebook in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1uDB6mOqb_SkLPCkuKNFWAYupRd5mLrOT?usp=sharing))
 
 
 ## What's Next?
