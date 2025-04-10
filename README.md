@@ -92,6 +92,10 @@ As music recommender systems become more advanced, future directions include:
 
 As with any recommender system, whether social media, entertainment, or music, we risk bias in the recommendations that the model provides to users. With music specifically, users with aggressive or extreme beliefs could be recommended songs containing lyrics that motivate them to act in a harmful manner. Additionally, children could easily be recommended music with innapropriate or explicit content if not specifically marked as a children's account.
 
+Additionally, because of this bias, users may be discouraged from discovering new artists, genres, or cultures, which limits the diversity of the listening experience. It can also hinder the exposure of emerging or underrepresented musicians, making it harder for them to break through or find their audience. While MUSE attempts to improve accuracy by considering listening behavior on shuffle play, it still risks over-relying on behavioral data that may not fully reflect user preferences or intent.
+
+AI models like MUSE rely heavily on user interaction data, such as listening history, skip and replay behavior, or listening duration. Although having access to this data improves model accuracy, it raises some ethical concerns about user data privacy. Are users aware of what data is being collected and how it is being used? Is the data anonymized and stored securely? Can this data be sold or used for purposes outside of listening recommendations, such as ad targeting or profiling? 
+
 ## References List
 
 [OpenAI](https://openai.com/)
