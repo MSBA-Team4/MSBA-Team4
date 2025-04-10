@@ -11,10 +11,20 @@ Mauni Branch: https://github.com/ybranchy
 
 ## Project Scope
 
+This project focuses specifically on AI in creative industries, with a narrow focus on AI-powered recommender systems in music streaming platforms. We aim to explore how user behaviors—especially shuffle play—impact the effectiveness of recommendations, and how this behavior can be modeled to enhance user experience and engagement with the platform.
+
 ## Project Details
 
-## What's Next?
 
+
+## What's Next?
+Looking ahead, future directions include:
+- **Emotion-based or mood-aware recommendations**.
+- **Real-time adaptation** to changing user behavior.
+- Addressing **bias and fairness** in recommendation outputs.
+- Exploring **multi-modal AI** (e.g., combining audio features, text metadata, and behavior).
+- Considering **ethical implications** like filter bubbles and artist representation.
+  
 ## Responsible AI Considerations
 
 ## References List
