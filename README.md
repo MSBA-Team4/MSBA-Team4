@@ -63,7 +63,7 @@ Therefore, the MUSE system focuses on improving music recommendations by learnin
 ## Demo Code: Recommender Systems
 [Click here to launch the demo notebook in Colab](https://colab.research.google.com/drive/1uDB6mOqb_SkLPCkuKNFWAYupRd5mLrOT?usp=sharing)
 
-We wanted to create a very simple model—as opposed to the more complex MUSE recommender mentioned in the research article—that gives personalized song recommendations based on individual songs and user interactions. Our goal was to recommend five songs to a user based on their listening history, while also displaying useful metadata like the song title, genre, and whether the user has that song saved to their library or favorites.
+We wanted to create a very simple model—as opposed to the more complex MUSE recommender mentioned in the research article—that gives personalized song recommendations based on individual songs and user interactions. Our goal was to recommend five songs to a user based on their listening history, while also giving the user some useful metadata like the song title, genre, and whether the user has that song saved to their library or favorites.
 To achieve this, we used Python and TensorFlow to build a basic retrieval-based recommendation system. We started by using GenAI to generate two synthetic datasets:
 - User Ratings Dataset: user_id, song_id, song_title, song_genres, in_library, is_favorited
 - Song Information Dataset: song_id, song_title, song_genres
