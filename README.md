@@ -57,6 +57,10 @@ As music recommender systems become more advanced, future directions include:
 
 ## References List
 
+[OpenAI](https://openai.com/)
+[Research Article](https://arxiv.org/pdf/2308.09649)
+[Claude](https://claude.ai/)
+
 
 <!--
 **MSBA-Team4/MSBA-Team4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
