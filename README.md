@@ -126,7 +126,7 @@ Additionally, because of this bias, users may be discouraged from discovering ne
 
 AI models like MUSE rely heavily on user interaction data, such as listening history, skip and replay behavior, or listening duration. Although having access to this data improves model accuracy, it raises some ethical concerns about user data privacy. Are users aware of what data is being collected and how it is being used? Is the data anonymized and stored securely? Can this data be sold or used for purposes outside of listening recommendations, such as ad targeting or profiling? 
 
-## References List
+## References 
 
 Anthropic. (n.d.). Claude. https://claude.ai/
 
