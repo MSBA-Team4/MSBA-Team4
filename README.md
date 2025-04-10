@@ -32,7 +32,9 @@ Describe our Problem
 #### Business Importance:
 
 Recommender systems are important for businesses in order to cater to their specific customer base overall, as well as allowing them to target multiple niche customer segments simultaneously. Personalized recommendations will improve user experience, which is always good for businesses. A user who feels the platform "gets" them is more likely to return, listen longer, and subscribe. Accurate recommendations increase  interaction with the platform and overall brand loyalty. The accuracy or quality of recommendations and personalization can even be used as a way for brands to differentiate among competitors.
+
 Recommender systems are also very useful for platforms that rely on ad revenue, as targeted ads are more likely to lead to interactions or purchases.
+
 Using AI for recommendations can also increase operational efficiency. The model has the ability to collect user data and make recommendations for a large scale of users in a short time. 
 
 
