@@ -8,7 +8,7 @@ Grace Schaaff: https://github.com/gschaaff
 Mauni Branch: https://github.com/ybranchy
 
 ## Project Kanban Board
-Check out our current progress and tasks on the [Kanban board](https://github.com/users/MSBA-Team4/projects/1) . 
+Check out our progress and tasks on the [Kanban board](https://github.com/users/MSBA-Team4/projects/1) . 
 
 ## Project Scope
 
