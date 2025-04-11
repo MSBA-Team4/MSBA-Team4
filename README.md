@@ -111,11 +111,11 @@ We then input the vibe code that the LLM generated into our web-app script and b
 
 ## What's Next?
 Looking ahead, future directions include:
-- Emotion-based or mood-aware recommendations.
-- Real-time adaptation to changing user behavior.
-- Addressing bias and fairness in recommendation outputs.
-- Exploring multi-modal AI (e.g., combining audio features, text metadata, and behavior).
-- Considering ethical implications like filter bubbles and artist representation.
+- Emotion-based or mood-aware recommendations
+- Real-time adaptation to changing user behavior
+- Addressing bias and fairness in recommendation outputs
+- Exploring multi-modal AI (e.g., combining audio features, text metadata, and behavior)
+- Considering ethical implications like filter bubbles and artist representation
 
   
 ## Responsible AI Considerations
