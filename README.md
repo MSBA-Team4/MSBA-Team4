@@ -75,11 +75,17 @@ Here are the visualizations we created during the data exploration phase to bett
   <img src="images/genres.png" width="800px" alt="Genre Distribution">
 </p>
 
+The genre distribution chart illustrates the number of songs in each genre within the dataset. It highlights the diversity of the music library and reveals whether certain genres are over- or underrepresented.
+
 
 <p align="center">
   <img src="images/library.png" height="300px" width="400px" alt="In Library">
   <img src="images/favorite.png" height="300px" width="400px" alt="Favorited">
 </p>
+
+The first chart shows how many songs users have favorited versus those that remain unfavorited, providing a snapshot of user preferences across the dataset.
+
+The second chart shows the number of songs users have added to their libraries versus those they haven’t, providing a snapshot of user preferences across the dataset.
 
 
 
