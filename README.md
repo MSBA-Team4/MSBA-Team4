@@ -57,6 +57,28 @@ MUSE is an example of an advanced music recommender system that takes “shuffle
 
 Therefore, the MUSE system focuses on improving music recommendations by learning from the seemingly random shuffle play behavior. Unlike traditional systems that focus only on individual songs, MUSE models entire sequences of tracks (like how users move from one song to the next) to capture how users engage with a playlist or listening session. It also takes into account data like number of skips, replays, and total listening duration. 
 
+The following findings are based on the MUSE research article, which explores music recommendation techniques using a subset of the Million Song Dataset and models trained to predict the second half of a user’s listening history.
+
+- Background: Loosely based on the Million Song Dataset Kaggle competition. Model is trained on the first half of the user’s listening history and aims to predict the second half of the user’s listening history.
+  - Utilized a 10,000 song subset of the data for local testing, then cloud resource to compute on the full dataset.
+  - Model Features Used: Track ID, song ID, title, release year, artist name, duration, artist familiarity and hotness, danceability, energy, tempo, loudness, and song hotness.
+- Goal: Determine the best methods for music recommendation with minimal user information.
+- Models Utilized:
+    - Logistic Regression
+    - K-Nearest Neighbors
+    - Item-Item Collaborative Filtering
+    - Matrix Factorization
+- Evaluation Metrics:
+  - Recall: (Correctly predicted songs out of user’s second-half listening history / total songs in that half)
+  - Precision: (Correctly predicted songs out of user’s second-half history / total number of recommended songs)
+- Results:
+    - Artist familiarity and song hotness are slightly correlated
+    - Model’s precision decreases as the number of recommendations increases (score depends on number of recommendations)
+    - Recall increases as the number of recommendations increases (score is independent of number of recommendations)
+    - Nearest Neighbor and Item-Item methods scored the highest → suggests collaborative filtering is most effective
+      - Item-Item performed best when only recommending 10 items ⟶ best for recommending a few highly relevant songs
+
+
 ## Data Exploration & Visualizations
 
 Before building our recommendation system, we conducted a brief exploratory analysis of the dataset to better understand user behavior and song attributes.
