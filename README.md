@@ -138,12 +138,14 @@ We then input the vibe code that the LLM generated into our web-app script and b
 
 
 ## What's Next?
-Looking ahead, future directions include:
-- Emotion-based or mood-aware recommendations
-- Real-time adaptation to changing user behavior
-- Addressing bias and fairness in recommendation outputs
-- Exploring multi-modal AI (e.g., combining audio features, text metadata, and behavior)
-- Considering ethical implications like filter bubbles and artist representation
+Looking ahead, there are several promising directions and critical considerations for the future of AI in music recommendation systems:
+- Emotion-based and mood-aware recommendations: Future models may incorporate real-time emotional context to better match music to a user’s mood, enhancing personalization beyond static preferences.
+- Dynamic personalization: Systems could adapt in real-time to shifting user behaviors, preferences, and environments (e.g., time of day, location, recent activity).
+- Multi-modal AI integration: Combining audio signals, lyrics, metadata, and user behavior can lead to deeper insights and more refined recommendations.
+- Addressing algorithmic bias and fairness: As with all AI systems, recommender models must account for potential biases that may limit exposure to diverse artists, genres, or cultures.
+- Ethical concerns: Issues such as filter bubbles, data privacy, and the representation of underexposed artists need to be addressed to ensure that recommendation engines serve both users and creators fairly.
+
+As AI continues to evolve, these systems will play an even greater role in shaping music discovery. Future innovation must balance accuracy and user satisfaction with ethical responsibility and cultural inclusivity.
 
   
 ## Responsible AI Considerations
