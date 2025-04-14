@@ -52,6 +52,7 @@ Using AI for recommendations can also increase operational efficiency. The model
 
 
 ### Research Article: MUSE 
+[Link to article](https://medium.com/@brendanngo/muse-a-music-recommendation-system-f11fcb2baf63)
 
 MUSE is an example of an advanced music recommender system that takes “shuffle play” into account. Shuffling songs puts tracks in a random order, and the user is not actively choosing to listen to that specific song, so it can hinder a typical recommender system and lead to less accurate suggestions.
 
